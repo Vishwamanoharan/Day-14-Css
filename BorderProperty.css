@@ -1,0 +1,24 @@
+p{
+    border: 2px solid red;
+
+    border-radius: 10px 15px;
+
+    border-width: 10px;
+
+    /* border-collapse: separate;
+    border-spacing: 2px; */
+}
+
+#BS{
+    border-bottom-style: solid ;
+    border-top-style:dotted ;
+    border-left-style: double;
+    border-right-style:ridge ;
+
+    border-color: blue;
+
+}
+
+div{
+    border-collapse: separate;
+}

@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 1px  red;
+    
+}
+p{
+
+    text-transform: uppercase;
+    text-indent: 10px;
+    /* text-overflow: hidden; */
+
+
+
+}
+
+#Letter{
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    /* line-height: ; */
+    word-break: break-all ;
+}
+#Cursor{
+    cursor:crosshair;
+}
+
+.Float{
+    height: 100%;
+    width: 60%;
+    float:right;
+}
+
+
